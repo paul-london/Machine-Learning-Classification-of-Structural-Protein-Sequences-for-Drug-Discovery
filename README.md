@@ -136,10 +136,10 @@ jupyter notebook notebooks/protein_classification.ipynb
 ---
 
 ## 🔬 Results Summary
-| Pipeline | Method               | Validation Accuracy | Notes                                    |
+| Pipeline | Method               | Test Accuracy (%) | Notes                                    |
 | :--------: | :--------------------: | :-------------------: | ---------------------------------------- |
-| **1**    | NLP + Random Forest  | ~69.7%              | Lightweight baseline using 3-mers & SVD  |
-| **2**    | Bidirectional LSTM   | ~78.2%              | Best sequence-based model so far         |
+| **1**    | NLP + Random Forest  | 69.7              | Lightweight baseline using 3-mers & SVD  |
+| **2**    | Bidirectional LSTM   | 78.2              | Best sequence-based model so far         |
 | **3**    | ESM-2 LLM Embeddings | In progress         | Strongest clustering; evaluation ongoing |
 
 ---

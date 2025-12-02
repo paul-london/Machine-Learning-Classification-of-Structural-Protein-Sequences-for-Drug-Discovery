@@ -214,4 +214,7 @@ __marimo__/
 
 # Custom
 reference/
+misc/
+images/
 *.csv
+*.docx

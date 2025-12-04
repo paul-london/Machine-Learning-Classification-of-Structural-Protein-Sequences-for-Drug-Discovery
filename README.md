@@ -78,7 +78,7 @@ Two files are required:
 - Class weighting  
 - Trained 50–100 epochs  
 
-**Best validation accuracy:** ~78.2%
+**Accuracy:** ~78.2%
 
 ---
 

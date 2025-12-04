@@ -107,7 +107,7 @@ Includes:
 
 ![](umap.jpg)
 
-*UMAP visualization of 8M-parameter ESM-2 embeddings showing clear clustering of protein classes.*
+*UMAP projection of ESM-2 embeddings showing strong overall clustering, but limited separation between individual protein classes.*
 
 ---
 

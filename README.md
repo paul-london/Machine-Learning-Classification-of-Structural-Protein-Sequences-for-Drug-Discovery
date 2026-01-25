@@ -7,7 +7,10 @@
 
 ## 📘 Overview
 
-This repository accompanies the project **“Machine Learning Classification of Structural Protein Sequences for Drug Discovery.”**  
+This repository accompanies the project **“Machine Learning Classification of Structural Protein Sequences for Drug Discovery.”**
+
+The article can be found on [Medium](https://ernest-bonat.medium.com/machine-learning-classification-of-structural-protein-sequences-for-drug-discovery-48d7057e43b0).
+
 The project investigates how modern machine learning (ML) and language-modeling techniques can classify proteins based solely on their amino acid sequences.
 
 By treating protein sequences as *biological text*, we apply natural language processing (NLP), recurrent neural networks (LSTMs), and pre-trained large language models (LLMs, e.g., ESM-2) to analyze patterns within primary structure and predict each protein’s functional class.
